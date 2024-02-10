@@ -10,5 +10,5 @@ test("renders", () => {
 
 test("meta", () => {
     const tags = meta(metaArgs)
-    expect(tags).toEqual([{title: "💿 remix starter | home"}])
+    expect(tags).toEqual([{title: "☁️ cloudinary motion demo"}])
 })
